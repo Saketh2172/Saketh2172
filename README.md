@@ -20,56 +20,82 @@
 - 🛠 Upgrading retrieval systems from keyword-based to semantic (vector) search
 
 ---
-
 ### Stack
 
-**Languages**
+#### 🖥️ Languages
 
-<img src="https://img.icons8.com/color/96/000000/python.png" width="50" height="50" alt="Python"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50" height="50" alt="SQL"/>
-<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,postgres,mysql" />
+</p>
 
-**GenAI / LLM**
+---
 
-<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50" height="50" alt="LangChain"/>
-<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="50" height="50" alt="CrewAI"/>
-<img src="https://img.icons8.com/color/96/000000/search.png" width="50" height="50" alt="RAG"/>
-<img src="https://img.icons8.com/color/96/000000/cube.png" width="50" height="50" alt="Pinecone"/>
-<img src="https://img.icons8.com/color/96/000000/hugging-face.png" width="50" height="50" alt="Hugging Face"/>
-<img src="https://img.icons8.com/color/96/000000/prompt.png" width="50" height="50" alt="Prompt Engineering"/>
-<img src="https://img.icons8.com/color/96/000000/brain.png" width="50" height="50" alt="Semantic Search"/>
-<img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="50" height="50" alt="NER"/>
+#### 🤖 GenAI / LLM
 
-**ML / Deep Learning**
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrewAI-E74C3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-14B8A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vector%20Databases-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Semantic%20Search-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
+</p>
 
-<img src="https://img.icons8.com/color/96/000000/pytorch.png" width="50" height="50" alt="PyTorch"/>
-<img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="50" height="50" alt="TensorFlow"/>
-<img src="https://img.icons8.com/color/96/000000/scikit-learn.png" width="50" height="50" alt="scikit-learn"/>
-<img src="https://img.icons8.com/color/96/000000/xgboost.png" width="50" height="50" alt="XGBoost"/>
-<img src="https://img.icons8.com/color/96/000000/transformers.png" width="50" height="50" alt="Transformers"/>
-<img src="https://img.icons8.com/color/96/000000/neural-network.png" width="50" height="50" alt="CNNs"/>
-<img src="https://img.icons8.com/color/96/000000/neural.png" width="50" height="50" alt="LSTM"/>
-<img src="https://img.icons8.com/color/96/000000/feature.png" width="50" height="50" alt="Feature Engineering"/>
-<img src="https://img.icons8.com/color/96/000000/settings.png" width="50" height="50" alt="Hyperparameter Tuning"/>
+---
 
-**MLOps / Deployment**
+#### 🧠 Machine Learning & Deep Learning
 
-<img src="https://img.icons8.com/color/96/000000/mlflow.png" width="50" height="50" alt="MLflow"/>
-<img src="https://img.icons8.com/color/96/000000/docker.png" width="50" height="50" alt="Docker"/>
-<img src="https://img.icons8.com/color/96/000000/fastapi.png" width="50" height="50" alt="FastAPI"/>
-<img src="https://img.icons8.com/color/96/000000/github-actions.png" width="50" height="50" alt="GitHub Actions"/>
-<img src="https://img.icons8.com/color/96/000000/prometheus.png" width="50" height="50" alt="Prometheus"/>
-<img src="https://img.icons8.com/color/96/000000/grafana.png" width="50" height="50" alt="Grafana"/>
-<img src="https://img.icons8.com/color/96/000000/aws-lambda.png" width="50" height="50" alt="AWS Lambda"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
-**Data / Cloud**
+<p>
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LightGBM-00C853?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CNN-1976D2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LSTM-D32F2F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Feature%20Engineering-7C3AED?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hyperparameter%20Tuning-0288D1?style=for-the-badge"/>
+</p>
 
-<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="50" height="50" alt="AWS"/>
-<img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50" height="50" alt="PostgreSQL"/>
-<img src="https://img.icons8.com/color/96/000000/pandas.png" width="50" height="50" alt="Pandas"/>
-<img src="https://img.icons8.com/color/96/000000/numpy.png" width="50" height="50" alt="NumPy"/>
-<img src="https://img.icons8.com/color/96/000000/ocr.png" width="50" height="50" alt="OCR Pipelines"/>
+---
 
+#### 🚀 MLOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,fastapi,githubactions,git,aws" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI/CD-0F9D58?style=for-the-badge"/>
+</p>
+
+---
+
+#### ☁️ Data Engineering & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,postgres,mysql,mongodb,pandas,numpy" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OCR-0078D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ETL%20Pipelines-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Processing-7C3AED?style=for-the-badge"/>
+</p>
 ---
 
 ### Projects
