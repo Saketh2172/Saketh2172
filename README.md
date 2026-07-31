@@ -19,7 +19,9 @@
 - 🔍 Actively interviewing for **AI/ML Engineer**, **GenAI Engineer**, and **Data Scientist** roles
 - 🛠 Upgrading retrieval systems from keyword-based to semantic (vector) search
 
----### Stack
+---
+
+### Stack
 
 #### 💻 Languages
 
