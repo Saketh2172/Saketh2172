@@ -19,91 +19,75 @@
 - 🔍 Actively interviewing for **AI/ML Engineer**, **GenAI Engineer**, and **Data Scientist** roles
 - 🛠 Upgrading retrieval systems from keyword-based to semantic (vector) search
 
+---### Stack
+
+#### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-344E7A?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-344E7A?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344E7A?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-344E7A?style=flat-square&logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-344E7A?style=flat-square&logo=cplusplus&logoColor=white)
+
 ---
-### Stack
 
-<table>
-<tr>
-<td valign="top" width="25%">
+#### 🤖 GenAI / LLM
 
-### Languages
+![LangChain](https://img.shields.io/badge/LangChain-344E7A?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-344E7A?style=flat-square)
+![CrewAI](https://img.shields.io/badge/CrewAI-344E7A?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-344E7A?style=flat-square)
+![Pinecone](https://img.shields.io/badge/Pinecone-344E7A?style=flat-square)
+![FAISS](https://img.shields.io/badge/FAISS-344E7A?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-344E7A?style=flat-square)
+![Transformers](https://img.shields.io/badge/Transformers-344E7A?style=flat-square)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-344E7A?style=flat-square&logo=huggingface&logoColor=white)
+![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-344E7A?style=flat-square)
+![Semantic%20Search](https://img.shields.io/badge/Semantic%20Search-344E7A?style=flat-square)
+![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-344E7A?style=flat-square)
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" alt="MySQL"/>
-</p>
+---
 
-</td>
+#### 🧠 Machine Learning
 
-<td valign="top" width="25%">
+![PyTorch](https://img.shields.io/badge/PyTorch-344E7A?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-344E7A?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-344E7A?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-344E7A?style=flat-square)
+![LightGBM](https://img.shields.io/badge/LightGBM-344E7A?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-344E7A?style=flat-square&logo=opencv&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-344E7A?style=flat-square)
+![LSTM](https://img.shields.io/badge/LSTM-344E7A?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-344E7A?style=flat-square)
+![Feature%20Engineering](https://img.shields.io/badge/Feature%20Engineering-344E7A?style=flat-square)
+![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-344E7A?style=flat-square)
 
-### AI / ML
+---
 
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-Learn"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" alt="OpenCV"/>
-</p>
+#### 🚀 MLOps & Deployment
 
-**Frameworks**
+![Docker](https://img.shields.io/badge/Docker-344E7A?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-344E7A?style=flat-square&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-344E7A?style=flat-square&logo=git&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-344E7A?style=flat-square&logo=githubactions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-344E7A?style=flat-square)
+![Prometheus](https://img.shields.io/badge/Prometheus-344E7A?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-344E7A?style=flat-square&logo=grafana&logoColor=white)
+![AWS%20Lambda](https://img.shields.io/badge/AWS%20Lambda-344E7A?style=flat-square&logo=awslambda&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-344E7A?style=flat-square)
 
-- Transformers
-- Hugging Face
-- XGBoost
-- LightGBM
-- CNNs
-- LSTMs
+---
 
-</td>
+#### ☁️ Data & Cloud
 
-<td valign="top" width="25%">
-
-### GenAI
-
-**Frameworks**
-
-- LangChain
-- CrewAI
-- LangGraph
-- RAG
-- Pinecone
-- FAISS
-- LlamaIndex
-- Prompt Engineering
-- Semantic Search
-- Vector Databases
-
-</td>
-
-<td valign="top" width="25%">
-
-### Cloud & MLOps
-
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="50" alt="GitHub Actions"/><br><br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" alt="AWS"/>
-</p>
-
-**Tools**
-
-- MLflow
-- Prometheus
-- Grafana
-- AWS Lambda
-- Amazon S3
-- OCR Pipelines
-- Pandas
-- NumPy
-
-</td>
-</tr>
-</table>
+![AWS](https://img.shields.io/badge/AWS-344E7A?style=flat-square&logo=amazonaws&logoColor=white)
+![Amazon%20S3](https://img.shields.io/badge/Amazon%20S3-344E7A?style=flat-square&logo=amazons3&logoColor=white)
+![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-344E7A?style=flat-square&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-344E7A?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-344E7A?style=flat-square&logo=numpy&logoColor=white)
+![OCR%20Pipelines](https://img.shields.io/badge/OCR%20Pipelines-344E7A?style=flat-square)
+![ETL](https://img.shields.io/badge/ETL-344E7A?style=flat-square)
+![Data%20Processing](https://img.shields.io/badge/Data%20Processing-344E7A?style=flat-square)
 ---
 
 ### Projects
