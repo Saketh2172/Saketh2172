@@ -25,50 +25,50 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-1F4E78?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-1F4E78?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-1F4E78?style=for-the-badge&logo=cplusplus&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/python.png" width="50" height="50" alt="Python"/>
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50" height="50" alt="SQL"/>
+<img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" width="50" height="50" alt="C++"/>
 
 **GenAI / LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-2C5282?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-2C5282?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-2C5282?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-2C5282?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3A6FA8?style=for-the-badge&logo=huggingface&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2C5282?style=for-the-badge&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-2C5282?style=for-the-badge&logoColor=white)
-![NER](https://img.shields.io/badge/NER-2C5282?style=for-the-badge&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/artificial-intelligence.png" width="50" height="50" alt="LangChain"/>
+<img src="https://img.icons8.com/color/96/000000/api-settings.png" width="50" height="50" alt="CrewAI"/>
+<img src="https://img.icons8.com/color/96/000000/search.png" width="50" height="50" alt="RAG"/>
+<img src="https://img.icons8.com/color/96/000000/cube.png" width="50" height="50" alt="Pinecone"/>
+<img src="https://img.icons8.com/color/96/000000/hugging-face.png" width="50" height="50" alt="Hugging Face"/>
+<img src="https://img.icons8.com/color/96/000000/prompt.png" width="50" height="50" alt="Prompt Engineering"/>
+<img src="https://img.icons8.com/color/96/000000/brain.png" width="50" height="50" alt="Semantic Search"/>
+<img src="https://img.icons8.com/color/96/000000/machine-learning.png" width="50" height="50" alt="NER"/>
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-3A6FA8?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-3A6FA8?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-3A6FA8?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-3A6FA8?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-3A6FA8?style=for-the-badge&logo=huggingface&logoColor=white)
-![CNNs](https://img.shields.io/badge/CNNs-2C5282?style=for-the-badge&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-2C5282?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2C5282?style=for-the-badge&logoColor=white)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-2C5282?style=for-the-badge&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/pytorch.png" width="50" height="50" alt="PyTorch"/>
+<img src="https://img.icons8.com/color/96/000000/tensorflow.png" width="50" height="50" alt="TensorFlow"/>
+<img src="https://img.icons8.com/color/96/000000/scikit-learn.png" width="50" height="50" alt="scikit-learn"/>
+<img src="https://img.icons8.com/color/96/000000/xgboost.png" width="50" height="50" alt="XGBoost"/>
+<img src="https://img.icons8.com/color/96/000000/transformers.png" width="50" height="50" alt="Transformers"/>
+<img src="https://img.icons8.com/color/96/000000/neural-network.png" width="50" height="50" alt="CNNs"/>
+<img src="https://img.icons8.com/color/96/000000/neural.png" width="50" height="50" alt="LSTM"/>
+<img src="https://img.icons8.com/color/96/000000/feature.png" width="50" height="50" alt="Feature Engineering"/>
+<img src="https://img.icons8.com/color/96/000000/settings.png" width="50" height="50" alt="Hyperparameter Tuning"/>
 
 **MLOps / Deployment**
 
-![MLflow](https://img.shields.io/badge/MLflow-2C5282?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2C5282?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-3A6FA8?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2C5282?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-3A6FA8?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-3A6FA8?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-2C5282?style=for-the-badge&logo=awslambda&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/mlflow.png" width="50" height="50" alt="MLflow"/>
+<img src="https://img.icons8.com/color/96/000000/docker.png" width="50" height="50" alt="Docker"/>
+<img src="https://img.icons8.com/color/96/000000/fastapi.png" width="50" height="50" alt="FastAPI"/>
+<img src="https://img.icons8.com/color/96/000000/github-actions.png" width="50" height="50" alt="GitHub Actions"/>
+<img src="https://img.icons8.com/color/96/000000/prometheus.png" width="50" height="50" alt="Prometheus"/>
+<img src="https://img.icons8.com/color/96/000000/grafana.png" width="50" height="50" alt="Grafana"/>
+<img src="https://img.icons8.com/color/96/000000/aws-lambda.png" width="50" height="50" alt="AWS Lambda"/>
 
 **Data / Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-2C5282?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C5282?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-3A6FA8?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-3A6FA8?style=for-the-badge&logo=numpy&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR%20Pipelines-2C5282?style=for-the-badge&logoColor=white)
+<img src="https://img.icons8.com/color/96/000000/amazon-web-services.png" width="50" height="50" alt="AWS"/>
+<img src="https://img.icons8.com/color/96/000000/postgreesql.png" width="50" height="50" alt="PostgreSQL"/>
+<img src="https://img.icons8.com/color/96/000000/pandas.png" width="50" height="50" alt="Pandas"/>
+<img src="https://img.icons8.com/color/96/000000/numpy.png" width="50" height="50" alt="NumPy"/>
+<img src="https://img.icons8.com/color/96/000000/ocr.png" width="50" height="50" alt="OCR Pipelines"/>
 
 ---
 
