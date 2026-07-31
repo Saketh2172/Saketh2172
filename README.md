@@ -27,19 +27,19 @@
 
 ![Python](https://img.shields.io/badge/Python-344E7A?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-344E7A?style=flat-square)
-![C++](https://img.shields.io/badge/C++-344E7A?style=flat-square&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-344E7A?style=flat-square&logo=cplusplus&logoColor=white)
 
 
-#### 🤖 GenAI / LLM
+#### 🤖 Generative AI / LLM Engineering
 
 ![LangChain](https://img.shields.io/badge/LangChain-344E7A?style=flat-square&logo=chainlink&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-344E7A?style=flat-square)
 ![CrewAI](https://img.shields.io/badge/CrewAI-344E7A?style=flat-square)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-344E7A?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-344E7A?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-344E7A?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-344E7A?style=flat-square)
-![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-344E7A?style=flat-square)
-
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-344E7A?style=flat-square&logo=huggingface&logoColor=white)
 
 
 #### 🧠 Machine Learning
@@ -49,39 +49,27 @@
 ![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-344E7A?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-344E7A?style=flat-square)
 ![LightGBM](https://img.shields.io/badge/LightGBM-344E7A?style=flat-square)
-![OpenCV](https://img.shields.io/badge/OpenCV-344E7A?style=flat-square&logo=opencv&logoColor=white)
-![CNN](https://img.shields.io/badge/CNN-344E7A?style=flat-square)
-![LSTM](https://img.shields.io/badge/LSTM-344E7A?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-344E7A?style=flat-square)
-![Feature%20Engineering](https://img.shields.io/badge/Feature%20Engineering-344E7A?style=flat-square)
-![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-344E7A?style=flat-square)
-
 
 
 #### 🚀 MLOps & Deployment
 
 ![Docker](https://img.shields.io/badge/Docker-344E7A?style=flat-square&logo=docker&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-344E7A?style=flat-square&logo=fastapi&logoColor=white)
-![Git](https://img.shields.io/badge/Git-344E7A?style=flat-square&logo=git&logoColor=white)
-![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-344E7A?style=flat-square&logo=githubactions&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-344E7A?style=flat-square)
-![Prometheus](https://img.shields.io/badge/Prometheus-344E7A?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-344E7A?style=flat-square&logo=grafana&logoColor=white)
+![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-344E7A?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS%20Lambda](https://img.shields.io/badge/AWS%20Lambda-344E7A?style=flat-square&logo=awslambda&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-344E7A?style=flat-square)
+![CI%2FCD](https://img.shields.io/badge/CI%2FCD-344E7A?style=flat-square)
 
 
-
-#### ☁️ Data & Cloud
+#### ☁️ Cloud & Data
 
 ![AWS](https://img.shields.io/badge/AWS-344E7A?style=flat-square&logo=amazonaws&logoColor=white)
 ![Amazon%20S3](https://img.shields.io/badge/Amazon%20S3-344E7A?style=flat-square&logo=amazons3&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-344E7A?style=flat-square&logo=amazonaws&logoColor=white)
 ![Apache%20Spark](https://img.shields.io/badge/Apache%20Spark-344E7A?style=flat-square&logo=apachespark&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-344E7A?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-344E7A?style=flat-square&logo=numpy&logoColor=white)
-![OCR%20Pipelines](https://img.shields.io/badge/OCR%20Pipelines-344E7A?style=flat-square)
-![ETL](https://img.shields.io/badge/ETL-344E7A?style=flat-square)
-![Data%20Processing](https://img.shields.io/badge/Data%20Processing-344E7A?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344E7A?style=flat-square&logo=postgresql&logoColor=white)
 
 ---
 
