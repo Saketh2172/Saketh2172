@@ -21,7 +21,7 @@
 
 ---
 ## 🚀 Featured Projects
---
+----
 ### 🧠 Multi-Agent System for Proactive Mental Wellness
 > Production-style GenAI system using multi-agent orchestration, RAG, and semantic retrieval.
 
