@@ -25,50 +25,50 @@
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1F4E78?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1F4E78?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-1F4E78?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **GenAI / LLM**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=for-the-badge&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-21C3C3?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-9C27B0?style=for-the-badge&logoColor=white)
-![Semantic Search](https://img.shields.io/badge/Semantic%20Search-4CAF50?style=for-the-badge&logoColor=white)
-![NER](https://img.shields.io/badge/NER-FF9800?style=for-the-badge&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C5282?style=for-the-badge&logo=chainlink&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-2C5282?style=for-the-badge&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-2C5282?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2C5282?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3A6FA8?style=for-the-badge&logo=huggingface&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-2C5282?style=for-the-badge&logoColor=white)
+![Semantic Search](https://img.shields.io/badge/Semantic%20Search-2C5282?style=for-the-badge&logoColor=white)
+![NER](https://img.shields.io/badge/NER-2C5282?style=for-the-badge&logoColor=white)
 
 **ML / Deep Learning**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C7BB6?style=for-the-badge&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)
-![CNNs](https://img.shields.io/badge/CNNs-4CAF50?style=for-the-badge&logoColor=white)
-![LSTM](https://img.shields.io/badge/LSTM-FF6B6B?style=for-the-badge&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-9C27B0?style=for-the-badge&logoColor=white)
-![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-673AB7?style=for-the-badge&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-3A6FA8?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-3A6FA8?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-3A6FA8?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-3A6FA8?style=for-the-badge&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-3A6FA8?style=for-the-badge&logo=huggingface&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-2C5282?style=for-the-badge&logoColor=white)
+![LSTM](https://img.shields.io/badge/LSTM-2C5282?style=for-the-badge&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-2C5282?style=for-the-badge&logoColor=white)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-2C5282?style=for-the-badge&logoColor=white)
 
 **MLOps / Deployment**
 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F27830?style=for-the-badge&logo=grafana&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-2C5282?style=for-the-badge&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2C5282?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-3A6FA8?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2C5282?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-3A6FA8?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-3A6FA8?style=for-the-badge&logo=grafana&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-2C5282?style=for-the-badge&logo=awslambda&logoColor=white)
 
 **Data / Cloud**
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR%20Pipelines-0078D4?style=for-the-badge&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-2C5282?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2C5282?style=for-the-badge&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-3A6FA8?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-3A6FA8?style=for-the-badge&logo=numpy&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR%20Pipelines-2C5282?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -77,32 +77,32 @@
 #### 🧠 [Multi-Agent System for Proactive Mental Wellness](REPLACE_WITH_REPO_URL)
 Multi-agent orchestration framework (**CrewAI + LangChain**) performing sentiment analysis and proactive intervention for early burnout detection — **94% F1-score**. RAG-based knowledge base on **Pinecone** delivers context-aware, clinically-grounded wellness suggestions with HIPAA-compliant data anonymization.
 
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-21C3C3?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-FF9800?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-2C5282?style=flat-square&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-2C5282?style=flat-square&logo=chainlink&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-2C5282?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-3A6FA8?style=flat-square&logoColor=white)
+![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-2C5282?style=flat-square&logoColor=white)
 
 > 🔗 *Repo link pending — uploading soon*
 
 #### 📄 Intelligent Document Processing Pipeline for Insurance Underwriting
 Automated document intelligence pipeline using **OCR** + fine-tuned **Hugging Face transformer** models, deployed on serverless **AWS Lambda** for concurrent high-volume ingestion. **95% extraction accuracy**, cutting underwriting turnaround from 3 days to under 4 hours.
 
-![OCR](https://img.shields.io/badge/OCR-0078D4?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat-square&logo=serverless&logoColor=white)
+![OCR](https://img.shields.io/badge/OCR-2C5282?style=flat-square&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3A6FA8?style=flat-square&logo=huggingface&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-2C5282?style=flat-square&logo=awslambda&logoColor=white)
+![Serverless](https://img.shields.io/badge/Serverless-2C5282?style=flat-square&logo=serverless&logoColor=white)
 
 > 🔗 *Repo: add link here*
 
 #### ⚙️ Scalable MLOps Pipeline: Real-Time Sentiment API
 Automated **CI/CD** (GitHub Actions + Docker) for containerized **DistilBERT** deployment — **80% reduction** in manual deploy time. Real-time monitoring via **Prometheus/Grafana** tracking drift and latency, sustaining **99.9% uptime** at sub-100ms inference for 1,000+ concurrent requests.
 
-![DistilBERT](https://img.shields.io/badge/DistilBERT-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F27830?style=flat-square&logo=grafana&logoColor=white)
+![DistilBERT](https://img.shields.io/badge/DistilBERT-3A6FA8?style=flat-square&logo=huggingface&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2C5282?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2C5282?style=flat-square&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-3A6FA8?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-3A6FA8?style=flat-square&logo=grafana&logoColor=white)
 
 > 🔗 *Repo: add link here*
 
