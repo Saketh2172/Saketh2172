@@ -31,7 +31,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-344E7A?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-344E7A?style=flat-square&logo=cplusplus&logoColor=white)
 
----
 
 #### 🤖 GenAI / LLM
 
@@ -48,7 +47,7 @@
 ![Semantic%20Search](https://img.shields.io/badge/Semantic%20Search-344E7A?style=flat-square)
 ![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-344E7A?style=flat-square)
 
----
+
 
 #### 🧠 Machine Learning
 
@@ -64,7 +63,7 @@
 ![Feature%20Engineering](https://img.shields.io/badge/Feature%20Engineering-344E7A?style=flat-square)
 ![Hyperparameter%20Tuning](https://img.shields.io/badge/Hyperparameter%20Tuning-344E7A?style=flat-square)
 
----
+
 
 #### 🚀 MLOps & Deployment
 
@@ -78,7 +77,7 @@
 ![AWS%20Lambda](https://img.shields.io/badge/AWS%20Lambda-344E7A?style=flat-square&logo=awslambda&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-344E7A?style=flat-square)
 
----
+
 
 #### ☁️ Data & Cloud
 
@@ -90,6 +89,7 @@
 ![OCR%20Pipelines](https://img.shields.io/badge/OCR%20Pipelines-344E7A?style=flat-square)
 ![ETL](https://img.shields.io/badge/ETL-344E7A?style=flat-square)
 ![Data%20Processing](https://img.shields.io/badge/Data%20Processing-344E7A?style=flat-square)
+
 ---
 
 ### Projects
