@@ -60,6 +60,8 @@
 ![GitHub%20Actions](https://img.shields.io/badge/GitHub%20Actions-344E7A?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS%20Lambda](https://img.shields.io/badge/AWS%20Lambda-344E7A?style=flat-square&logo=awslambda&logoColor=white)
 ![CI%2FCD](https://img.shields.io/badge/CI%2FCD-344E7A?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-344E7A?style=flat-square&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-344E7A?style=flat-square&logo=kubernetes&logoColor=white)
 
 
 #### ☁️ Cloud & Data
