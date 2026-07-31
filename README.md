@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="mailto:chinamail.sakethreddy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/REPLACE_ME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="REPLACE_WITH_RESUME_URL"><img src="https://img.shields.io/badge/Resume-4C1D95?style=flat&logo=googledocs&logoColor=white" /></a>
-  <a href="REPLACE_WITH_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-0F766E?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sakethreddych/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1YciyeVEpgfqEF6-7Pkolt5lp3q3tlrzV/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-4C1D95?style=flat&logo=googledocs&logoColor=white" /></a>
+  
   <img src="https://img.shields.io/badge/Houston%2C%20TX-555555?style=flat&logo=googlemaps&logoColor=white" />
 </p>
 
