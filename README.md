@@ -27,8 +27,6 @@
 
 ![Python](https://img.shields.io/badge/Python-344E7A?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-344E7A?style=flat-square)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-344E7A?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-344E7A?style=flat-square&logo=mysql&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-344E7A?style=flat-square&logo=cplusplus&logoColor=white)
 
 
@@ -40,11 +38,6 @@
 ![RAG](https://img.shields.io/badge/RAG-344E7A?style=flat-square)
 ![Pinecone](https://img.shields.io/badge/Pinecone-344E7A?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS-344E7A?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-344E7A?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-344E7A?style=flat-square)
-![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-344E7A?style=flat-square&logo=huggingface&logoColor=white)
-![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-344E7A?style=flat-square)
-![Semantic%20Search](https://img.shields.io/badge/Semantic%20Search-344E7A?style=flat-square)
 ![Vector%20Databases](https://img.shields.io/badge/Vector%20Databases-344E7A?style=flat-square)
 
 
