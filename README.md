@@ -16,7 +16,7 @@
 
 - 🎓 MS, Engineering Data Science — University of Houston (Aug 2024 – Jun 2026)
 - 🤖 Building **multi-agent GenAI systems** with RAG pipelines, LLM orchestration, and agentic frameworks
-- 🔍 Actively interviewing for **AI/ML Engineer**, **GenAI Engineer**, and **Data Scientist** roles
+- 🔍 Seeking **AI/ML Engineer**, **GenAI Engineer**, and **Data Scientist** roles
 - 🛠 Upgrading retrieval systems from keyword-based to semantic (vector) search
 
 ---
