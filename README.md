@@ -20,6 +20,80 @@
 - 🛠 Upgrading retrieval systems from keyword-based to semantic (vector) search
 
 ---
+## 🚀 Featured Projects
+
+### 🧠 Multi-Agent System for Proactive Mental Wellness
+> Production-style GenAI system using multi-agent orchestration, RAG, and semantic retrieval.
+
+**Problem:**  
+Build an intelligent system capable of analyzing user interactions, detecting early burnout signals, and providing personalized wellness recommendations.
+
+**Solution:**
+- Designed a multi-agent architecture using **CrewAI + LangChain** for task delegation, reasoning, and response generation
+- Built a **RAG pipeline** with **Pinecone vector database** for context-aware knowledge retrieval
+- Developed sentiment analysis workflows for early stress and burnout detection
+- Implemented privacy-focused data anonymization following healthcare data protection principles
+
+**Impact:**
+- Achieved **94% F1-score** on sentiment classification
+- Enabled context-aware recommendations through semantic search and retrieval augmentation
+
+**Stack:**
+CrewAI • LangChain • Pinecone • RAG • NLP • Python • Vector Databases
+
+🔗 Repository | 📄 Documentation 
+
+
+
+
+### 📄 Intelligent Document Processing Pipeline for Insurance Underwriting
+> End-to-end document AI pipeline automating large-scale insurance document extraction.
+
+**Problem:**  
+Reduce manual document processing time in insurance underwriting by extracting critical information from unstructured documents.
+
+**Solution:**
+- Developed an automated document intelligence pipeline using **OCR + Hugging Face transformer models**
+- Fine-tuned transformer-based models for domain-specific information extraction
+- Designed a serverless architecture using **AWS Lambda** for scalable document processing
+- Built high-volume ingestion workflows supporting concurrent document analysis
+
+**Impact:**
+- Achieved **95% extraction accuracy** on document intelligence tasks
+- Reduced underwriting turnaround time from **3 days to under 4 hours**
+- Improved scalability through serverless cloud deployment
+
+**Stack:**
+Hugging Face • OCR • Transformers • AWS Lambda • Python • Serverless Architecture
+
+🔗 Repository | 📄 Documentation 
+
+
+
+
+### ⚙️ Scalable MLOps Pipeline: Real-Time Sentiment API
+> Production ML deployment pipeline with automated CI/CD, monitoring, and scalable inference.
+
+**Problem:**  
+Create a reliable machine learning deployment workflow for real-time sentiment analysis with automated monitoring and continuous delivery.
+
+**Solution:**
+- Containerized **DistilBERT sentiment model** using Docker for production deployment
+- Implemented automated CI/CD pipelines using **GitHub Actions**
+- Developed real-time inference API with performance monitoring using **Prometheus + Grafana**
+- Added model observability for latency tracking, drift detection, and system health monitoring
+
+**Impact:**
+- Reduced manual deployment effort by **80%**
+- Maintained **99.9% uptime** with sub-100ms inference latency
+- Supported **1,000+ concurrent requests** through optimized deployment architecture
+
+**Stack:**
+DistilBERT • Docker • FastAPI • GitHub Actions • Prometheus • Grafana • MLOps
+
+🔗 Repository | 📄 Documentation
+
+---
 
 ### Stack
 
@@ -75,41 +149,6 @@
 
 ---
 
-### Projects
-
-#### 🧠 [Multi-Agent System for Proactive Mental Wellness](REPLACE_WITH_REPO_URL)
-Multi-agent orchestration framework (**CrewAI + LangChain**) performing sentiment analysis and proactive intervention for early burnout detection — **94% F1-score**. RAG-based knowledge base on **Pinecone** delivers context-aware, clinically-grounded wellness suggestions with HIPAA-compliant data anonymization.
-
-![CrewAI](https://img.shields.io/badge/CrewAI-2C5282?style=flat-square&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-2C5282?style=flat-square&logo=chainlink&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-2C5282?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-3A6FA8?style=flat-square&logoColor=white)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment%20Analysis-2C5282?style=flat-square&logoColor=white)
-
-> 🔗 *Repo link pending — uploading soon*
-
-#### 📄 Intelligent Document Processing Pipeline for Insurance Underwriting
-Automated document intelligence pipeline using **OCR** + fine-tuned **Hugging Face transformer** models, deployed on serverless **AWS Lambda** for concurrent high-volume ingestion. **95% extraction accuracy**, cutting underwriting turnaround from 3 days to under 4 hours.
-
-![OCR](https://img.shields.io/badge/OCR-2C5282?style=flat-square&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-3A6FA8?style=flat-square&logo=huggingface&logoColor=white)
-![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-2C5282?style=flat-square&logo=awslambda&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-2C5282?style=flat-square&logo=serverless&logoColor=white)
-
-> 🔗 *Repo: add link here*
-
-#### ⚙️ Scalable MLOps Pipeline: Real-Time Sentiment API
-Automated **CI/CD** (GitHub Actions + Docker) for containerized **DistilBERT** deployment — **80% reduction** in manual deploy time. Real-time monitoring via **Prometheus/Grafana** tracking drift and latency, sustaining **99.9% uptime** at sub-100ms inference for 1,000+ concurrent requests.
-
-![DistilBERT](https://img.shields.io/badge/DistilBERT-3A6FA8?style=flat-square&logo=huggingface&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2C5282?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2C5282?style=flat-square&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-3A6FA8?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-3A6FA8?style=flat-square&logo=grafana&logoColor=white)
-
-> 🔗 *Repo: add link here*
-
----
 
 ### Education
 
