@@ -21,7 +21,7 @@
 
 ---
 ## 🚀 Featured Projects
-----
+
 ### 🧠 Multi-Agent System for Proactive Mental Wellness
 > Production-style GenAI system using multi-agent orchestration, RAG, and semantic retrieval.
 
@@ -43,9 +43,7 @@ CrewAI • LangChain • Pinecone • RAG • NLP • Python • Vector Database
 
 🔗 Repository | 📄 Documentation 
 
-
-
-
+---
 ### 📄 Intelligent Document Processing Pipeline for Insurance Underwriting
 > End-to-end document AI pipeline automating large-scale insurance document extraction.
 
@@ -68,9 +66,7 @@ Hugging Face • OCR • Transformers • AWS Lambda • Python • Serverless A
 
 🔗 Repository | 📄 Documentation 
 
-
-
-
+---
 ### ⚙️ Scalable MLOps Pipeline: Real-Time Sentiment API
 > Production ML deployment pipeline with automated CI/CD, monitoring, and scalable inference.
 
