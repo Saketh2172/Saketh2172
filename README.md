@@ -23,71 +23,61 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Multi-Agent System for Proactive Mental Wellness
-> Production-style GenAI system using multi-agent orchestration, RAG, and semantic retrieval.
+> GenAI application using multi-agent orchestration and RAG for proactive burnout detection.
 
-**Problem:**  
-Build an intelligent system capable of analyzing user interactions, detecting early burnout signals, and providing personalized wellness recommendations.
-
-**Solution:**
-- Designed a multi-agent architecture using **CrewAI + LangChain** for task delegation, reasoning, and response generation
-- Built a **RAG pipeline** with **Pinecone vector database** for context-aware knowledge retrieval
-- Developed sentiment analysis workflows for early stress and burnout detection
-- Implemented privacy-focused data anonymization following healthcare data protection principles
+**Built:**
+- Multi-agent workflow using **CrewAI + LangChain**
+- RAG pipeline with **Pinecone** for semantic knowledge retrieval
+- Sentiment analysis pipeline for user interaction analysis
 
 **Impact:**
-- Achieved **94% F1-score** on sentiment classification
-- Enabled context-aware recommendations through semantic search and retrieval augmentation
+- Achieved **94% F1-score** for sentiment classification
+- Delivered context-aware recommendations using retrieval augmentation
 
 **Stack:**
-CrewAI • LangChain • Pinecone • RAG • NLP • Python • Vector Databases
+CrewAI • LangChain • Pinecone • RAG • NLP • Python
 
-🔗 Repository | 📄 Documentation 
+🔗 Repository | 📄 Documentation | 🚀 Demo
+
 
 ---
+
 ### 📄 Intelligent Document Processing Pipeline for Insurance Underwriting
-> End-to-end document AI pipeline automating large-scale insurance document extraction.
+> Document AI pipeline automating insurance document extraction and processing.
 
-**Problem:**  
-Reduce manual document processing time in insurance underwriting by extracting critical information from unstructured documents.
-
-**Solution:**
-- Developed an automated document intelligence pipeline using **OCR + Hugging Face transformer models**
-- Fine-tuned transformer-based models for domain-specific information extraction
-- Designed a serverless architecture using **AWS Lambda** for scalable document processing
-- Built high-volume ingestion workflows supporting concurrent document analysis
+**Built:**
+- OCR + Hugging Face transformer pipeline for information extraction
+- AWS Lambda serverless architecture for scalable processing
+- Automated high-volume document ingestion workflows
 
 **Impact:**
-- Achieved **95% extraction accuracy** on document intelligence tasks
-- Reduced underwriting turnaround time from **3 days to under 4 hours**
-- Improved scalability through serverless cloud deployment
+- **95% extraction accuracy**
+- Reduced underwriting turnaround from **3 days → under 4 hours**
 
 **Stack:**
-Hugging Face • OCR • Transformers • AWS Lambda • Python • Serverless Architecture
+Hugging Face • OCR • Transformers • AWS Lambda • Python
 
-🔗 Repository | 📄 Documentation 
+🔗 Repository | 📄 Documentation | 🚀 Demo
+
 
 ---
+
 ### ⚙️ Scalable MLOps Pipeline: Real-Time Sentiment API
-> Production ML deployment pipeline with automated CI/CD, monitoring, and scalable inference.
+> Production ML deployment pipeline with automated CI/CD and monitoring.
 
-**Problem:**  
-Create a reliable machine learning deployment workflow for real-time sentiment analysis with automated monitoring and continuous delivery.
-
-**Solution:**
-- Containerized **DistilBERT sentiment model** using Docker for production deployment
-- Implemented automated CI/CD pipelines using **GitHub Actions**
-- Developed real-time inference API with performance monitoring using **Prometheus + Grafana**
-- Added model observability for latency tracking, drift detection, and system health monitoring
+**Built:**
+- Containerized DistilBERT inference service using Docker
+- CI/CD automation with GitHub Actions
+- Monitoring stack using Prometheus + Grafana
 
 **Impact:**
-- Reduced manual deployment effort by **80%**
-- Maintained **99.9% uptime** with sub-100ms inference latency
-- Supported **1,000+ concurrent requests** through optimized deployment architecture
+- Reduced deployment effort by **80%**
+- Achieved **99.9% uptime** with sub-100ms inference latency
 
 **Stack:**
-DistilBERT • Docker • FastAPI • GitHub Actions • Prometheus • Grafana • MLOps
+DistilBERT • Docker • FastAPI • GitHub Actions • Prometheus • Grafana
 
-🔗 Repository | 📄 Documentation
+🔗 Repository | 📄 Documentation | 🚀 Demo
 
 ---
 
