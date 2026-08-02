@@ -37,7 +37,7 @@
 **Stack:**
 CrewAI • LangChain • Pinecone • RAG • NLP • Python
 
-🔗 Repository | 📄 Documentation | 🚀 Demo
+🔗 Repository | 📄 Documentation <a href="https://drive.google.com/file/d/1YciyeVEpgfqEF6-7Pkolt5lp3q3tlrzV/view?usp=sharing/"><" 📄 Documentation></a>
 
 
 ---
@@ -57,7 +57,7 @@ CrewAI • LangChain • Pinecone • RAG • NLP • Python
 **Stack:**
 Hugging Face • OCR • Transformers • AWS Lambda • Python
 
-🔗 Repository | 📄 Documentation | 🚀 Demo
+🔗 Repository | 📄 Documentation
 
 
 ---
@@ -77,7 +77,7 @@ Hugging Face • OCR • Transformers • AWS Lambda • Python
 **Stack:**
 DistilBERT • Docker • FastAPI • GitHub Actions • Prometheus • Grafana
 
-🔗 Repository | 📄 Documentation | 🚀 Demo
+🔗 Repository | 📄 Documentation
 
 ---
 
