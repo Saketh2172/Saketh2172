@@ -37,7 +37,7 @@
 **Stack:**
 CrewAI • LangChain • Pinecone • RAG • NLP • Python
 
-🔗 Repository | <a href="https://drive.google.com/file/d/1YciyeVEpgfqEF6-7Pkolt5lp3q3tlrzV/view?usp=sharing/"> 📄 Documentation</a>
+🔗 Repository | <a href="https://drive.google.com/file/d/1YciyeVEpgfqEF6-7Pkolt5lp3q3tlrzV/view?usp=sharing/" style="text-decoration: none;"> 📄 Documentation</a>
 
 
 ---
